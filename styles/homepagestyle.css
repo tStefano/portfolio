@@ -329,7 +329,7 @@ a {
     display: grid;
     justify-content: center;
     align-content: center;
-    transform: scale (0.64) translate (-90px, 40px);
+    transform: scale(0.64) translate(-90px, 40px);
     overflow: inherit;
   }
 
